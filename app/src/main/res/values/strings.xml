@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoComple</string>
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>CSS</item>
+        <item>HTML</item>
+        <item>php</item>
+        <item>sql</item>
+    </string-array>
+</resources>
